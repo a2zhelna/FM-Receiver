@@ -1,4 +1,4 @@
-# FM Receiver!
+# FM Receiver
 The motivation behind this project is to become familiar with RF circuits, and attain an understanding of the much taken-for-granted technology of radio.
 
 The [FM_Receiver_HighLevelDesignDoc.pdf](./FM_Receiver_HighLevelDesignDoc.pdf) provides a high-level design description of the project, along with component selection. 
