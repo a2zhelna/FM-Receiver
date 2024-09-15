@@ -3,6 +3,7 @@ The motivation behind this project is to become familiar with RF circuits, and a
 
 The [FM_Receiver_HighLevelDesignDoc.pdf](./FM_Receiver_HighLevelDesignDoc.pdf) provides a high-level design description of the project, along with component selection. 
 The [FM_Receiver_Calculations.pdf](./FM_Receiver_Calculations.pdf) provides the majority of the calculations and decision-making process of the design.
+The [FM_Receiver_Schem.pdf](./FM_Receiver_Schem.pdf) contains the design schematic.
 
  The following images show the fully assembled first version of the "FM Receiver":
 ![OverallSetup](Images/OverallSetup.jpg)
